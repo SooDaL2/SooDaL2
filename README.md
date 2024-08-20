@@ -61,7 +61,10 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SooDaL2&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a>
-  
+
+
+<!-- Hits -->
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooDaL2&count_bg=%23787E8A&title_bg=%2300081E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 </div>
 
