@@ -17,9 +17,9 @@
   <h3><strong>Backend</strong></h3>
   <div>
     <img src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=Node.js&logoColor=%235FA04E"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=%232496ED"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E"/>
   </div>
 
   <!-- DataBase -->
