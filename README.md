@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6994CDEE&height=50&section=header&text=텍스트&fontSize=20dp" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6994CDEE&height=80&section=header&text=SooDaL's GitHub&fontSize=20dp" />
 
 
 <!--
