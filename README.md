@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=250&section=header&text=SooDaL's%20GitHub&fontSize=90" />
 
-  <h3 align="center"> Skill </h3>
+  ##  🔨 Skills
+  <h3 align="center"> Skills </h3>
   
 </div>
 
