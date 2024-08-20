@@ -15,13 +15,14 @@
   <!-- Backend -->
   <p><strong>Backend</strong></p>
   <div>
+    <img src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=Node.js&logoColor=%235FA04E"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   </div>
 
   <!-- DataBase -->
   <p><strong>Database</strong></p>
   <div>
-    
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   </div>
 
   <!-- Development Tools -->
