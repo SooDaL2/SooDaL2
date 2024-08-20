@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SooDaL's%20GitHub&fontSize=90" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SooDaL's%20GitHub&fontSize=90" />
+</div>
+
 
 <!--
 **SooDaL2/SooDaL2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
