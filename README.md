@@ -17,6 +17,23 @@
     
   </div>
 
+  <!-- DataBase -->
+  <p><strong>Database</strong></p>
+  <div>
+    
+  </div>
+
+  <!-- Development Tools -->
+  <p><strong>Development Tools</strong></p>
+  <div>
+    
+  </div>
+
+  <!-- Communication -->
+  <p><strong>Communication</strong></p>
+  <div>
+    
+  </div>
   
   
 </div>
