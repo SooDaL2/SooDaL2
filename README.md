@@ -9,7 +9,7 @@
   <p><strong>Frontend</strong></p>
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84"/>
   </div>
 
   <!-- Backend -->
@@ -33,13 +33,15 @@
   <!-- Development Tools -->
   <p><strong>Development Tools</strong></p>
   <div>
-    <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84"/>
+    
   </div>
 
   <!-- Communication -->
   <p><strong>Communication</strong></p>
   <div>
-    
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=%23181717"/>
+    <img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=Notion&logoColor=%23000000"/>
+
   </div>
   
   
