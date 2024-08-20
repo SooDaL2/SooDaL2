@@ -27,7 +27,7 @@
   <!-- Development Tools -->
   <p><strong>Development Tools</strong></p>
   <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84">
+    <a href="none"><img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84"></a>
   </div>
 
   <!-- Communication -->
