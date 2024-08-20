@@ -1,8 +1,23 @@
 <div align="center">
+<!-- Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=250&section=header&text=SooDaL's%20GitHub&fontSize=90" />
 
+<!-- Skills -->  
   ##  🔨 Skills
-  <h3 align="center"> Skills </h3>
+  <div style="display:flex; flex-direction:column; align-items:flex-start;">
+  <!-- Frontend -->
+  <p><strong>Frontend</strong></p>
+  <div>
+    
+  </div>
+
+  <!-- Backend -->
+  <p><strong>Backend</strong></p>
+  <div>
+    
+  </div>
+
+  
   
 </div>
 
