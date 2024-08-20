@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6994CDEE&height=50&section=header&text=텍스트&fontSize=20dp" />
+
 
 <!--
 **SooDaL2/SooDaL2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
