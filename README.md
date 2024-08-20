@@ -33,7 +33,7 @@
   <!-- Development Tools -->
   <h3><strong>Development Tools</strong></h3>
   <div>
-    
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2340AEF0?style=flat-square&logo=Visual%20Studio%20Code&logoColor=%2340AEF0"/>
   </div>
 
   <!-- Communication -->
