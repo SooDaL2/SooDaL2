@@ -23,7 +23,9 @@
   <p><strong>Database</strong></p>
   <div>
     <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=%234479A1"/>
-
+    <img src="https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=%23003545"/>
+    <img src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpMyAdmin&logoColor=%236C78AF"/>
+    
   </div>
 
   <!-- Development Tools -->
