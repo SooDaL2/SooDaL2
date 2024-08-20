@@ -6,8 +6,8 @@
   ##  🔨 Skills
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- Frontend -->
-  <p><strong>Frontend</strong></p>
   <div>
+    <p><strong>Frontend</strong></p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84"/>
   </div>
