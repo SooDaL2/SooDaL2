@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=Notion&logoColor=%23000000"/>
   </div>
 
+<br>
 
 <!-- GitHub Status -->
   ## 📫 GitHub Status
