@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84"/>
   </div>
-
+    
   <!-- Backend -->
-  <p><strong>Backend</strong></p>
+  <h3><strong>Backend</strong></h3>
   <div>
     <img src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=Node.js&logoColor=%235FA04E"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -23,7 +23,7 @@
   </div>
 
   <!-- DataBase -->
-  <p><strong>Database</strong></p>
+  <h3><strong>Database</strong></h3>
   <div>
     <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=%234479A1"/>
     <img src="https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=%23003545"/>
@@ -31,19 +31,17 @@
   </div>
 
   <!-- Development Tools -->
-  <p><strong>Development Tools</strong></p>
+  <h3><strong>Development Tools</strong></h3>
   <div>
     
   </div>
 
   <!-- Communication -->
-  <p><strong>Communication</strong></p>
+  <h3><strong>Communication</strong></h3>
   <div>
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=%23181717"/>
     <img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=Notion&logoColor=%23000000"/>
-
   </div>
-  
   
 </div>
 
