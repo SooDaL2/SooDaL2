@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=250&section=header&text=SooDaL's%20GitHub&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=200&section=header&text=SooDaL's%20GitHub&fontSize=50" />
 
 <!-- Skills -->  
   ##  🔨 Skills
