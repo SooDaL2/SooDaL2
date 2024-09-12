@@ -11,6 +11,8 @@
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84"/>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5"/>
+    <img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3"/>
   </div>
     
   <!-- Backend -->
