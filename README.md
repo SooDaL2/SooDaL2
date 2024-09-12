@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header -->
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=200&section=header&text=SooDaL's%20GitHub&fontSize=50](https://github.com/SooDaL2/SooDaL2/issues/1#issue-2522159126)" />
+  <img src="https://private-user-images.githubusercontent.com/132282122/366853145-b74fbd16-b84e-4ac1-bdf6-960d9a990012.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxNDE2OTMsIm5iZiI6MTcyNjE0MTM5MywicGF0aCI6Ii8xMzIyODIxMjIvMzY2ODUzMTQ1LWI3NGZiZDE2LWI4NGUtNGFjMS1iZGY2LTk2MGQ5YTk5MDAxMi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxMlQxMTQzMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTkzNmY0YTVjYjcyZjM1NGUyOGQyZDg5ZmQ0NjU0NWZkMDNjMTI4OTkzZWQ0MDMxMTNiYjc5YjFkZmMzN2NmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-uj_zvY23JTgchIsuueLystkxhNLswcBGgrs16CHmm8" />
 
 
 <!-- Skills -->  
