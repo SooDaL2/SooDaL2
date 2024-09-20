@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header -->
-  <img src="https://github.com/SooDaL2/SooDaL2/issues/1#issuecomment-2346073436" />
+  <img src="https://github.com/user-attachments/assets/d35597f1-d970-4b3b-bd2b-ec30f04cb788" />
 
 
 <!-- Skills -->  
